@@ -1,0 +1,23 @@
+.container-contact100 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 0px;
+    padding: 20px;
+    background-color: rgb(208, 205, 207);
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  .contact100-image{
+    display: flex;
+    background-image: url('../4Types.png');
+  }
+  .contact100-form {
+    width: 100%;
+    max-width: 800px;
+    padding: 10px;
+    background-color: skyblue;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  }
