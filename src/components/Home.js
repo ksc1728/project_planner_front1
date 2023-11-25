@@ -72,9 +72,9 @@ const Home = () => {
               </div> */}
             </div>
           </div>
-          {/* <div className="col-lg-6 order-1 order-lg-2 hero-img">
+          <div className="col-lg-6 order-1 order-lg-2 hero-img">
             <img src={welcomeImage} className="img-fluid animated oscillate" alt="" />
-          </div> */}
+          </div> 
         </div>
       </div>
     </section>
@@ -82,11 +82,3 @@ const Home = () => {
 };
 
 export default Home;
-
-
-// git init
-// git add README.md
-// git commit -m "first commit"
-// git branch -M main
-// git remote add origin https://github.com/ksc1728/test7.git
-// git push -u origin main
