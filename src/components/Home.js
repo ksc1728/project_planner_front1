@@ -1,7 +1,7 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Link } from 'react-router-dom';
-//import welcomeImage from '../4Types.png';
+import welcomeImage from '../4Types.png';
 import './home.css';
 
 // function Home() {
